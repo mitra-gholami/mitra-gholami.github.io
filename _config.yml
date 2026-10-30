@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mitra Gholami"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Mitra Gholami"
 description              : &description "Research profile"   
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "mitra-gholami.jpg"
   name             : "Mitra Gholami"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "I am a research assistant in the Psycho-/Neurolinguistics and Pragmatics group at the University of Osnabrück. "
   location         : "Osnabrück, Germany"
   employer         : #"University of Osnabrück"
