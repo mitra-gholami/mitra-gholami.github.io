@@ -5,9 +5,9 @@ var addressPoints = [
     -118.2427676
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Too much information? A visual-world eye-tracking experiment on the online processing of redundant gradable adjectives<br />5th Experimental Pragmatics in Italy Conference (XPRAG.it); Venice, Italy",
+    45.4371908,
+    12.3345898
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
